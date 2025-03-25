@@ -1,0 +1,20 @@
+.paginationContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+.pageButton {
+  border: none;
+  background: none;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.currentPage {
+  color: blue;
+  border: 1px solid black;
+  border-radius: 5px;
+}

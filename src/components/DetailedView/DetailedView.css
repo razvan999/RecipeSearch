@@ -1,0 +1,78 @@
+.meal-detail {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.meal-detail h2 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 15px;
+  justify-self: center;
+}
+
+.centerImg {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.meal-detail img {
+  max-width: 50%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  justify-self: center;
+}
+
+.meal-detail h3 {
+  font-size: 1.5rem;
+  color: #555;
+  margin-top: 10px;
+}
+
+.meal-detail p {
+  font-size: 1rem;
+  color: #666;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+.meal-detail ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.meal-detail ul li {
+  font-size: 1rem;
+  color: #555;
+  margin-bottom: 5px;
+}
+
+.meal-detail a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.meal-detail a:hover {
+  text-decoration: underline;
+}
+
+.meal-detail h4 {
+  font-size: 1.25rem;
+  color: #333;
+  margin-top: 20px;
+}
+
+.meal-detail .meal-video a {
+  display: block;
+  margin-top: 10px;
+}
+
+.meal-detail .meal-video a:hover {
+  color: #0056b3;
+}
